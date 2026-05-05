@@ -1,0 +1,3 @@
+Kruskal
+kruskal
+Edge
